@@ -1,2 +1,3 @@
 # hello-world
 just another repository
+hey together I will start studying in Göttingen M.Sc. urban forest management at the HAWK University for applied sciences. right now i am having fun by learning to code with github for free before studies are starting. I like to work on GIS application during studies. Moreover we learn to manage and communicate in team work. There is a study degree in environmental information technology. There you learn to programme and use software to edit data in remote sensing and spatial analysis. One is called M.Sc. FIT at the HNEE and the other one Umweltinformation-GIS at Beuth University of applied sciences. But the last two degrees I will not start. I am uncertain if I have chosen the right decision.
